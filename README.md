@@ -34,7 +34,10 @@ This project uses the following tech stack:
    - Explore the relationship between promotions and review ratings.
    - Visualize trends in review ratings across different price buckets.
 3. **Geospatial Analysis**: Map the geographic distribution of restaurants using latitude and longitude.
-4. **Clustering (Optional)**: Apply clustering techniques to identify groups of similar restaurants.
+   
+5. **Clustering**: Apply clustering techniques to identify groups of similar restaurants.
+   
+![Clusters](https://github.com/user-attachments/assets/e0b18dae-f442-46cc-a273-cca1911eb970)
 
 ## Visualizations
 - **Barplots**: Distribution of restaurants by location and price bucket.
